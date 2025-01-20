@@ -66,10 +66,3 @@ Contributions to improve this application are welcome! Feel free to fork this re
 ## Screenshots
 ![GUI](https://github.com/user-attachments/assets/4888cdf7-d7a9-4974-a437-9c396fb502f3)
 ```
-
-
-### Key Points:
-- **License**: The project is licensed under Creative Commons Zero v1.0, which allows anyone to use, modify, and distribute the work freely.
-- **Acknowledgements**: Thanking libraries like scikit-learn and Tkinter for their functionality.
-- **Contact**: Provided a placeholder for your contact information (email), and acknowledged you as the developer.
-- **How to Contribute**: A section to encourage contributions from others.
